@@ -1,0 +1,123 @@
+{
+    "sideBar": {
+        "DashBoard": "採用提案",
+        "Recruitment": "募集管理",
+        "profileManagement": "プロファイル管理",
+        "curriculumVitae": "履歴書管理",
+        "studentManagementInternships": "インターンシップ学生の管理",
+        "discussionManagement": "ディスカッション管理",
+        "accountManagement": "アカウント管理",
+        "studentManagement": "学生アカウント",
+        "schoolManagement": "学校のアカウント",
+        "companyManagement": "会社のアカウント",
+        "notification": "お知らせ",
+        "statistic": "統計"
+    },
+    "suggest": {
+        "selectRecruitment": "募集ニュースを選択",
+        "recruitment": "募集管理",
+        "yearStudent": "年生",
+        "warning": "募集ニュース未承認"
+    },
+    "internship": {
+        "managingTrainees": "管理研修生",
+        "companyName": "会社名",
+        "totalStudents": "総学生数",
+        "view": "見る",
+        "name": "名前と苗字",
+        "email": "Eメール",
+        "phoneNumber": "電話番号",
+        "position": "ロケーション",
+        "birthDay": "お誕生日",
+        "address": "住所"
+    },
+    "discussion": {
+        "name": "名前と苗字",
+        "dateCreated": "作成日",
+        "recruitment": "募集",
+        "discussionList": "ディスカッションのリスト",
+        "seeCase": "ディスカッションコードディスカッションコード",
+        "caseDetails": "ディスカッションについて説明する",
+        "phoneNumber": "電話番号",
+        "correspondence": "ディスカッションコンテンツ",
+        "view": "見る",
+        "reply": "応答",
+        "solveCase": "結果の通知",
+        "email": "Eメール",
+        "notification": "お知らせ",
+        "replySuccess": "返信成功",
+        "replyFailure": "返信に失敗しました"
+    },
+    "statistic": {
+        "totalCompany": "トータルカンパニー",
+        "totalStudent": "総学生数",
+        "totalTeacher": "トレーナーの総数",
+        "studentInternStatistics": "学生インターン統計"
+    },
+    "notification": {
+        "createNotification": "通知を作成する",
+        "inputTitle": "タイトルを入力してください!",
+        "inputSender": "送信者を選択してください!",
+        "inputOverView": "概要を入力してください！",
+        "messageNotification": "お知らせ",
+        "descriptionNotificationSuccess": "成功した発表",
+        "descriptionNotificationFailure": "失敗の通知",
+        "confirm": "確認"
+    },
+    "accountSchool": {
+        "facultyOfTraining": "トレーニング学部",
+        "phoneNumber": "電話番号",
+        "sex": "セックス"
+    },
+    "accountCompany": {
+        "Coutry": "国家",
+        "phoneNumber": "電話番号",
+        "address": "住所"
+    },
+    "accountStudent": {
+        "facultyOfTraining" : "トレーニング学部",
+        "phoneNumber": "電話番号",
+        "sex": "セックス",
+        "StudentCode": "学生コード",
+        "YearOfBirth": "生年"
+    },
+    "curriculumVitae": {
+        "StudentCode": "学生コード",
+        "status": "状態",
+        "yearStudent": "年生",
+        "lastName": "苗字",
+        "firstName": "ファーストネーム",
+        "curriculumVitaeManagement": "履歴書管理",
+        "approveSuccess": "成功を承認する",
+        "approveFailure": "失敗を承認する",
+        "unApproveSuccess": "成功を拒否する",
+        "unApproveFailure": "失敗することを拒否する"
+    },
+    "information": "個人情報",
+    "setting": "設定",
+    "logout": " ログアウト",
+    "creator": "作成者",
+    "campaignName": "キャンペーン名",
+    "location": "場所",
+    "locationDescription": "場所の説明",
+    "description": "説明",
+    "startTime": "開始時間",
+    "endTime": "終了時間",
+    "status": "ステータス",
+    "create": "新しく追加する",
+    "view": "見る",
+    "edit": "編集",
+    "delete": "削除",
+    "reject": "拒否",
+    "updatedBy": "によって更新されました",
+    "AccountType": "口座の種類",
+    "Female": "女性",
+    "Male": "男性",
+    "NotUpdate": "更新しない",
+    "confirmDelete": "このアカウントを削除してもよろしいですか？",
+    "yes": "持ってる",
+    "no": "ない",
+    "footer": "iJobs © 2020 Immortal Team によって作成されました",
+    "approval": "承認",
+    "unApproval": "不承認"
+}

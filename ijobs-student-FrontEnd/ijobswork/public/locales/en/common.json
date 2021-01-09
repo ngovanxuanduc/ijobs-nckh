@@ -1,0 +1,55 @@
+{
+    "sideBar": {
+        "DashBoard": "DashBoard",
+        "Recruitment" : "Recruitment",
+        "profileManagement": "Profile Management",
+        "curriculumVitae" : "CV Management",
+        "studentManagementInternships" : "Internships Management",
+        "discussionManagement" : "Discussion Management",
+        "accountManagement" : "Account Management",
+        "studentManagement" : "Student Account",
+        "schoolManagement" : "School Account",
+        "companyManagement" : "Company Account"
+    },
+    "recruitment" : {
+        "title" : "Recruitment"
+    },
+    "account" : {
+        "title" : "Account"
+    },
+    "discussion": {
+        "name" : "Name",
+        "dateCreated": "Date Created",
+        "recruitment": "Recruitment",
+        "discussionList": "Discussion List",
+        "seeCase": "See case",
+        "caseDetails": "Case Details",
+        "phoneNumber": "Phone Number",
+        "correspondence": "Correspondence",
+        "view": "View",
+        "reply": "REPLY",
+        "solveCase": "SOLVE CASE",
+        "email": "Email",
+        "notification": "Notification",
+        "replySuccess": "Reply Success",
+        "replyFailure": "Reply Failed"
+
+    },
+    "information": "PERSONAL INFORMATION",
+    "setting": "SETTING",
+    "logout": "LOGOUT",
+    "login": "LOGIN",
+    "creator": "CREATOR",
+    "campaignName": "CAMPAIGN NAME",
+    "location": "LOCATION",
+    "locationDescription": "LOCATION DESCRIPION",
+    "description": "DESCRIPTION",
+    "startTime": "START TIME",
+    "endTime": "END TIME",
+    "status": "STATUS",
+    "create": "Add New",
+    "view": "View",
+    "edit": "Edit",
+    "delete": "Delete",
+    "reject": "Reject"
+}

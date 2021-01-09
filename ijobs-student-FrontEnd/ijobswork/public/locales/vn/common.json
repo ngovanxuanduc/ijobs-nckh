@@ -1,0 +1,54 @@
+{
+    "sideBar": {
+        "DashBoard": "Bảng Điều Khiển",
+        "Recruitment" : "Quản Lý Tuyển Dụng",
+        "profileManagement": "Quản Lý Profile",
+        "curriculumVitae" : "Quản lý CV",
+        "studentManagementInternships" : "Quản Lý SV Thực Tập",
+        "discussionManagement" : "Quản Lý Thảo Luận",
+        "accountManagement" : "Quản Lý Tài Khoản",
+        "studentManagement" : "Tài Khoản Sinh Viên",
+        "schoolManagement" : "Tài Khoản Nhà Trường",
+        "companyManagement" : "Tài Khoản Công Ty"
+    },
+    "recruitment" : {
+        "title" : "Recruitment"
+    },
+    "account" : {
+        "title" : "Account"
+    },
+    "discussion": {
+        "name": "Tên Công Ty",
+        "dateCreated": "Ngày Tạo",
+        "recruitment": "Tin Tuyển Dụng",
+        "discussionList": "Danh sách Thảo Luận",
+        "seeCase": "Mã Thảo luận",
+        "caseDetails": "Mô Tả Thảo Luận",
+        "phoneNumber": "Số Điện Thoại",
+        "correspondence": "Nội Dung Thảo Luận",
+        "view": "Xem",
+        "reply": "TRẢ LỜI",
+        "solveCase": "THÔNG BÁO KẾT QUẢ",
+        "email": "Email",
+        "notification": "Thông Báo",
+        "replySuccess": "Trả Lời Thành Công",
+        "replyFailure": "Trả Lời Thất Bại"
+    },
+    "information": "THÔNG TIN CÁ NHÂN",
+    "setting": "CÀI ĐẶT",
+    "logout": "THOÁT",
+    "login": "ĐĂNG NHẬP",
+    "creator": "NGƯỜI TẠO",
+    "campaignName": "TÊN CHIẾN DỊCH",
+    "location": "ĐỊA ĐIỂM",
+    "locationDescription": "MÔ TẢ ĐỊA ĐIỂM",
+    "description": "MÔ TẢ",
+    "startTime": "THỜI GIAN BẮT ĐẦU",
+    "endTime": "THỜI GIAN KẾT THÚC",
+    "status": "TRẠNG THÁI",
+    "create": "THÊM MỚI",
+    "view": "Xem",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "reject": "Từ chối"
+}

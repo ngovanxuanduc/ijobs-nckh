@@ -1,0 +1,54 @@
+{
+    "sideBar": {
+        "DashBoard": "コントロールパネル",
+        "Recruitment" : "募集管理",
+        "profileManagement": "プロファイル管理",
+        "curriculumVitae" : "履歴書管理",
+        "studentManagementInternships" : "インターンシップ学生の管理",
+        "discussionManagement" : "ディスカッション管理",
+        "accountManagement" : "アカウント管理",
+        "studentManagement" : "学生アカウント",
+        "schoolManagement" : "学校のアカウント",
+        "companyManagement" : "会社のアカウント"
+    },
+    "recruitment" : {
+        "title" : "募集"
+    },
+    "account" : {
+        "title" : "アカウント"
+    },
+    "discussion": {
+        "name": "会社名",
+        "dateCreated": "作成日",
+        "recruitment": "募集",
+        "discussionList": "ディスカッションのリスト",
+        "seeCase": "ディスカッションコードディスカッションコード",
+        "caseDetails": "ディスカッションについて説明する",
+        "phoneNumber": "電話番号",
+        "correspondence": "ディスカッションコンテンツ",
+        "view": "見る",
+        "reply": "応答",
+        "solveCase": "結果の通知",
+        "email": "Eメール",
+        "notification": "お知らせ",
+        "replySuccess": "返信成功",
+        "replyFailure": "返信に失敗しました"
+    },
+    "information": "個人情報",
+    "setting": "設定",
+    "login": "ログインする",
+    "logout": " ログアウト",
+    "creator": "作成者",
+    "campaignName": "キャンペーン名",
+    "location": "場所",
+    "locationDescription": "場所の説明",
+    "description": "説明",
+    "startTime": "開始時間",
+    "endTime": "終了時間",
+    "status": "ステータス",
+    "create": "新しく追加する",
+    "view": "見る",
+    "edit": "編集",
+    "delete": "削除",
+    "reject": "拒否"
+}

@@ -1,0 +1,22 @@
+#container{
+    margin-top: 3%;
+    width: 210mm;
+    height: 297mm;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10px;
+    -webkit-box-shadow: 0 1px 20px 0 rgba(69,90,100,.08);
+    box-shadow: 0 1px 20px 0 rgba(69,90,100,.08);
+}
+
+#dialog{
+    size: a4;
+    width: 210mm;
+    height: 297mm;
+    background-color: white;
+}
+
+.text{
+    font-size: 500;
+}

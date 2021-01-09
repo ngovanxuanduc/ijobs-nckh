@@ -1,0 +1,123 @@
+{
+    "sideBar": {
+        "DashBoard": "Gợi ý tuyển dụng",
+        "Recruitment": "Quản Lý Tuyển Dụng",
+        "profileManagement": "Quản Lý Profile",
+        "curriculumVitae": "Quản lý CV",
+        "studentManagementInternships": "Quản Lý SV Thực Tập",
+        "discussionManagement": "Quản Lý Thảo Luận",
+        "accountManagement": "Quản Lý Tài Khoản",
+        "studentManagement": "Tài Khoản Sinh Viên",
+        "schoolManagement": "Tài Khoản Nhà Trường",
+        "companyManagement": "Tài Khoản Công Ty",
+        "notification": "Tạo Thông Báo",
+        "statistic": "Thống Kê"
+    },
+    "discussion": {
+        "name": "Họ Và Tên",
+        "dateCreated": "Ngày Tạo",
+        "recruitment": "Tin Tuyển Dụng",
+        "discussionList": "Danh sách Thảo Luận",
+        "seeCase": "Mã Thảo luận",
+        "caseDetails": "Mô Tả Thảo Luận",
+        "phoneNumber": "Số Điện Thoại",
+        "correspondence": "Nội Dung Thảo Luận",
+        "view": "Xem",
+        "reply": "TRẢ LỜI",
+        "solveCase": "THÔNG BÁO KẾT QUẢ",
+        "email": "Email",
+        "notification": "Thông Báo",
+        "replySuccess": "Trả Lời Thành Công",
+        "replyFailure": "Trả Lời Thất Bại"
+    },
+    "notification": {
+        "createNotification": "Tạo Thông Báo",
+        "inputTitle": "Nhập tiêu đề thông báo!",
+        "inputSender": "Chọn đối tượng gửi!",
+        "inputOverView": "Nhập nội dung thông báo！",
+        "messageNotification": "Thông Báo",
+        "descriptionNotificationSuccess": "Gửi Thông Báo Thành Công",
+        "descriptionNotificationFailure": "Gửi Thông Báo Thất Bại",
+        "confirm": "Gửi"
+    },
+    "accountSchool": {
+        "facultyOfTraining": "Khoa",
+        "phoneNumber": "Số Điện Thoại",
+        "sex": "Giới Tính"
+    },
+    "accountCompany": {
+        "Coutry": "Quốc Gia",
+        "phoneNumber": "Số Điện Thoại",
+        "address": "Địa Chỉ"
+    },
+    "accountStudent": {
+        "facultyOfTraining": "Khoa",
+        "phoneNumber": "Số Điện Thoại",
+        "sex": "Giới Tính",
+        "StudentCode": "Mã Sinh Viên",
+        "YearOfBirth": "Năm Sinh"
+    },
+    "suggest": {
+        "selectRecruitment": "Chọn Tin Tuyển Dụng",
+        "recruitment": "Tin Tuyển Dụng",
+        "yearStudent": "Sinh Viên Năm",
+        "warning": "Tin Tuyển Dụng Chưa Được Phê Duyệt"
+    },
+    "internship": {
+        "managingTrainees": "Quản Lý Thực Tập Sinh",
+        "companyName": "Tên Công Ty",
+        "totalStudents": "Tổng Số Sinh Viên",
+        "view": "Xem",
+        "name": "Họ Và Tên",
+        "email": "Email",
+        "phoneNumber": "Số Điện Thoại",
+        "position": "Vị Trí",
+        "birthDay": "Ngày Sinh",
+        "address": "Địa Chỉ"
+    },
+    "statistic": {
+        "totalCompany": "Tổng Số Công Ty",
+        "totalStudent": "Tổng Số Sinh Viên",
+        "totalTeacher": "Tổng Số Giảng Viên",
+        "studentInternStatistics": "Thống Kê Sinh Viên Thực Tập"
+    },
+    "curriculumVitae": {
+        "StudentCode": "Mã Số Sinh Viên",
+        "status": "Trạng Thái",
+        "yearStudent": "Sinh Viên Năm",
+        "lastName": "Họ",
+        "firstName": "Tên",
+        "curriculumVitaeManagement": "Quản Lý Đơn Xin Việc",
+        "approveSuccess": "Phê Duyệt Thành Công",
+        "approveFailure": "Phê Duyệt Thất Bại",
+        "unApproveSuccess": "Từ Chối Thành Công",
+        "unApproveFailure": "Từ Chối Thất Bại"
+    },
+    "information": "THÔNG TIN CÁ NHÂN",
+    "setting": "CÀI ĐẶT",
+    "logout": "THOÁT",
+    "creator": "Người Tạo",
+    "campaignName": "TÊN CHIẾN DỊCH",
+    "location": "ĐỊA ĐIỂM",
+    "locationDescription": "MÔ TẢ ĐỊA ĐIỂM",
+    "description": "MÔ TẢ",
+    "startTime": "THỜI GIAN BẮT ĐẦU",
+    "endTime": "THỜI GIAN KẾT THÚC",
+    "status": "TRẠNG THÁI",
+    "create": "THÊM MỚI",
+    "view": "Xem",
+    "edit": "Sửa",
+    "delete": "Xóa",
+    "reject": "Từ Chối",
+    "updatedBy": "Cập Nhật Bởi",
+    "AccountType": "Loại Tài Khoản",
+    "Female": "Nữ",
+    "Male": "Nam",
+    "NotUpdate": "Chưa Cập Nhật",
+    "confirmDelete": "Bạn có chắc chắn xóa tài khoản này không?",
+    "yes": "Có",
+    "no": "Không",
+    "footer": "iJobs © 2020 Được Phát Triển Bởi nhóm Immortal",
+    "approval": "Phê Duyệt",
+    "unApproval": "Từ Chối"
+}
